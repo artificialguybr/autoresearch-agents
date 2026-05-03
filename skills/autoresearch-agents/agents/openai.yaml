@@ -1,0 +1,4 @@
+interface:
+  display_name: "Autoresearch Agents"
+  short_description: "Run autonomous LLM training research"
+  default_prompt: "Use $autoresearch-agents to start or resume an autonomous val_bpb optimization run."
